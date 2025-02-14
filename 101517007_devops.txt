@@ -1,0 +1,2 @@
+COMP 2156 is a course that covers DevOps principles and practices. 
+It emphasizes continuous integration, automated testing, and deployment practices to improve software development and operations.
