@@ -1,0 +1,2 @@
+COMP 2156 - DevOps teaches automation, CI/CD, configuration management, and cloud deployment, 
+helping students develop essential DevOps skills.
