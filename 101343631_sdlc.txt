@@ -1,2 +1,2 @@
-DevOps is important in SDLC as it bridges development and operations, 
+-- DevOps is important in SDLC as it bridges development and operations, 
 automating processes, improving efficiency, and ensuring faster software delivery.
