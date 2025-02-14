@@ -1,2 +1,2 @@
-COMP 2156 - DevOps teaches automation, configuration management, and cloud deployment, 
+- COMP 2156 - DevOps teaches automation, configuration management, and cloud deployment, 
 helping students develop essential DevOps skills. It also tells us about cultural practices that enhance software development.
