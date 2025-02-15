@@ -2,3 +2,5 @@ DevOps is crucial in the software development life cycle (SDLC) because it foste
 leading to faster and more reliable software delivery. Automation and continuous integration streamline workflows and reduce errors.
 
 Devops is a great thing to learn
+
+most fun course!
