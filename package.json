@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "COMP2156 GitHub Pages Deployment",
   "main": "index.js",
-  "homepage": "https://Ahmed100I.github.io/COMP2156",
+  "homepage": "https://ahmed100I.github.io/COMP2156",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ahmed100I/COMP2156.git"
+    "url": "https://github.com/ahmed100I/COMP2156.git"
   },
   "scripts": {
     "start": "react-scripts start",
